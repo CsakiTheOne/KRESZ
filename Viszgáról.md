@@ -10,4 +10,3 @@
 
 - gyakorlati oktatás: minimum 29óra és 580km
 - forgalmi vizsga: 60perc (ebből közúton 50perc)
-- 
