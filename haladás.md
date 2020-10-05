@@ -18,4 +18,8 @@ KÉSZ
 
 ## 5. rész - 3 modul
 
-1/3
+KÉSZ
+
+## Gyakorló modul
+
+## Gyakorló vizsga
