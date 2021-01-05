@@ -1,0 +1,34 @@
+Kérdés:
+A települési hulladék összegyűjtését végző jármű...
+Helyes válasz:
+olyan útra is behajthat, ahová egyébként behajtani tilos.
+Tanulói válasz:
+csak 06 és 22 óra között végezheti tevékenységét.
+
+Kérdés:
+Szabályosan előz-e az ábrán látható ’B’ jelű személygépkocsi? (villamos pályán előz)
+Helyes válasz:
+Igen.
+Tanulói válasz:
+Nem.
+
+Kérdés:
+Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként? (főútvonal)
+Helyes válasz:
+Az ’A’ jelű.
+Tanulói válasz:
+A ’B’ jelű.
+
+Kérdés:
+Az alábbiak közül melyik a helyes áthaladási sorrend az ábrán látható útkereszteződésben? (főútvonal)
+Helyes válasz:
+’A’ - ’C’ - ’B’.
+Tanulói válasz:
+’A’ - ’B’ - ’C’.
+
+Kérdés:
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni lakókocsit vontató személygépkocsival autópályán?
+Helyes válasz:
+Legfeljebb 80 km/h sebességgel.
+Tanulói válasz:
+Legfeljebb 110 km/h sebességgel.
